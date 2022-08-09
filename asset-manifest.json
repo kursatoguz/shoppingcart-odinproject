@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.a8d56912.chunk.css",
-  "main.js": "/static/js/main.5822df48.chunk.js",
-  "main.js.map": "/static/js/main.5822df48.chunk.js.map",
-  "static/js/1.a646f39c.chunk.js": "/static/js/1.a646f39c.chunk.js",
-  "static/js/1.a646f39c.chunk.js.map": "/static/js/1.a646f39c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.a8d56912.chunk.css.map": "/static/css/main.a8d56912.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.e9b08f3fdf66feba5a68879836548eab.js": "/precache-manifest.e9b08f3fdf66feba5a68879836548eab.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/shoppingcart-odinproject/fakestore/static/css/main.a8d56912.chunk.css",
+  "main.js": "/shoppingcart-odinproject/fakestore/static/js/main.5822df48.chunk.js",
+  "main.js.map": "/shoppingcart-odinproject/fakestore/static/js/main.5822df48.chunk.js.map",
+  "static/js/1.a646f39c.chunk.js": "/shoppingcart-odinproject/fakestore/static/js/1.a646f39c.chunk.js",
+  "static/js/1.a646f39c.chunk.js.map": "/shoppingcart-odinproject/fakestore/static/js/1.a646f39c.chunk.js.map",
+  "runtime~main.js": "/shoppingcart-odinproject/fakestore/static/js/runtime~main.4b4fcd05.js",
+  "runtime~main.js.map": "/shoppingcart-odinproject/fakestore/static/js/runtime~main.4b4fcd05.js.map",
+  "static/css/main.a8d56912.chunk.css.map": "/shoppingcart-odinproject/fakestore/static/css/main.a8d56912.chunk.css.map",
+  "index.html": "/shoppingcart-odinproject/fakestore/index.html",
+  "precache-manifest.3718de9a537c6ce1c13aa7cc1d911a56.js": "/shoppingcart-odinproject/fakestore/precache-manifest.3718de9a537c6ce1c13aa7cc1d911a56.js",
+  "service-worker.js": "/shoppingcart-odinproject/fakestore/service-worker.js"
 }
