@@ -1,5 +1,5 @@
 # DEMO
-https://kursatoguz.github.io/
+https://kursatoguz.github.io/shoppingcart-odinproject/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
