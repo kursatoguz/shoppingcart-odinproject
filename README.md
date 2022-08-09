@@ -1,6 +1,6 @@
 # DEMO
 
-https://kursatoguz.github.io/shoppingcart-odinproject/fakestore/
+https://kursatoguz.github.io/shoppingcart-odinproject/
 
 # Getting Started with Create React App
 
