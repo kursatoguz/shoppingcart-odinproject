@@ -10,7 +10,7 @@ import SingleProduct from "./pages/SingleProduct";
 import Navbar from "./components/Navbar";
 function App() {
   return (
-    <Router basename="/fakestore">
+    <Router>
       <Navbar />
       <Cart />
       <Routes>
