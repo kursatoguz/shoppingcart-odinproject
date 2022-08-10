@@ -1,13 +1,13 @@
 {
-  "main.css": "/shoppingcart-odinproject/fakestore/static/css/main.a8d56912.chunk.css",
-  "main.js": "/shoppingcart-odinproject/fakestore/static/js/main.5822df48.chunk.js",
-  "main.js.map": "/shoppingcart-odinproject/fakestore/static/js/main.5822df48.chunk.js.map",
-  "static/js/1.a646f39c.chunk.js": "/shoppingcart-odinproject/fakestore/static/js/1.a646f39c.chunk.js",
-  "static/js/1.a646f39c.chunk.js.map": "/shoppingcart-odinproject/fakestore/static/js/1.a646f39c.chunk.js.map",
-  "runtime~main.js": "/shoppingcart-odinproject/fakestore/static/js/runtime~main.4b4fcd05.js",
-  "runtime~main.js.map": "/shoppingcart-odinproject/fakestore/static/js/runtime~main.4b4fcd05.js.map",
-  "static/css/main.a8d56912.chunk.css.map": "/shoppingcart-odinproject/fakestore/static/css/main.a8d56912.chunk.css.map",
-  "index.html": "/shoppingcart-odinproject/fakestore/index.html",
-  "precache-manifest.3718de9a537c6ce1c13aa7cc1d911a56.js": "/shoppingcart-odinproject/fakestore/precache-manifest.3718de9a537c6ce1c13aa7cc1d911a56.js",
-  "service-worker.js": "/shoppingcart-odinproject/fakestore/service-worker.js"
+  "main.css": "/shoppingcart-odinproject/static/css/main.4a8e29c2.chunk.css",
+  "main.js": "/shoppingcart-odinproject/static/js/main.0ac5c38c.chunk.js",
+  "main.js.map": "/shoppingcart-odinproject/static/js/main.0ac5c38c.chunk.js.map",
+  "runtime~main.js": "/shoppingcart-odinproject/static/js/runtime~main.a50d2c5f.js",
+  "runtime~main.js.map": "/shoppingcart-odinproject/static/js/runtime~main.a50d2c5f.js.map",
+  "static/js/2.ad8126e6.chunk.js": "/shoppingcart-odinproject/static/js/2.ad8126e6.chunk.js",
+  "static/js/2.ad8126e6.chunk.js.map": "/shoppingcart-odinproject/static/js/2.ad8126e6.chunk.js.map",
+  "index.html": "/shoppingcart-odinproject/index.html",
+  "precache-manifest.1b21b1ba6a48836e74fccb0504e8d33d.js": "/shoppingcart-odinproject/precache-manifest.1b21b1ba6a48836e74fccb0504e8d33d.js",
+  "service-worker.js": "/shoppingcart-odinproject/service-worker.js",
+  "static/css/main.4a8e29c2.chunk.css.map": "/shoppingcart-odinproject/static/css/main.4a8e29c2.chunk.css.map"
 }
