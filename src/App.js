@@ -1,6 +1,6 @@
 import "./App.css";
 import React, { StrictMode } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Cart from "./components/Cart";
@@ -10,7 +10,7 @@ import SingleProduct from "./pages/SingleProduct";
 import Navbar from "./components/Navbar";
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Navbar />
       <Cart />
       <Routes>
@@ -19,7 +19,7 @@ function App() {
         <Route path="products/:id" element={<SingleProduct />} />
         <Route path="error" element={<Error />} />
       </Routes>
-    </Router>
+    </HashRouter>
   );
 }
 
