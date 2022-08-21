@@ -36,7 +36,7 @@ const Navbar = () => {
         </li>
 
         <li onClick={handleCart}>
-          <BiShoppingBag class="text-link cart-icon" />
+          <BiShoppingBag className="text-link cart-icon" />
         </li>
       </ul>
       <GoThreeBars className="icon" onClick={() => setIsOpen(!isOpen)} />
