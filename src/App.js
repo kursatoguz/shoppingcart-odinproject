@@ -10,7 +10,7 @@ import SingleProduct from "./pages/SingleProduct";
 import Navbar from "./components/Navbar";
 function App() {
   return (
-    <HashRouter basename="store">
+    <HashRouter basename="shoppingcart-odinproject">
       <Navbar />
       <Cart />
       <Routes>
