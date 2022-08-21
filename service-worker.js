@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/shoppingcart-odinproject/precache-manifest.1b21b1ba6a48836e74fccb0504e8d33d.js"
+  "/shoppingcart-odinproject/precache-manifest.2961a9c15b8f52c2a2f78cc7f13d66a6.js"
 );
 
 workbox.clientsClaim();
