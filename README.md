@@ -1,5 +1,5 @@
 # Demo
-https://kursatoguz.github.io/shoppingcart-odinproject/
+https://kursatoguz.github.io
 
 # Getting Started with Create React App
 
